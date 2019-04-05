@@ -1,0 +1,60 @@
+body {
+  background-color: lightgrey;
+}
+
+h1, h3 {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+  height: 100%;
+}
+
+.navbar   {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 28px;
+}
+
+.dropdown-item {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+.lg-img {
+  width: 900px;
+  height: 600px;
+}
+
+.md-img {
+  width: 600px;
+  height: 400px;
+}
+
+.sm-img {
+  width: 400px;
+  height: 300px;
+}
+
+.xs-img {
+  width: 200px;
+  height: 200px;
+}
+
+.text {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
+
+.btn-text {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+}
+
+
